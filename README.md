@@ -38,3 +38,7 @@ This project analyzes grocery sales data to understand sales performance, produc
 ## How to View
 Download the `.pbix` file and open it using Microsoft Power BI Desktop. The PDF file provides a static view of the dashboard.
 
+## Dashboard Preview
+
+![Blinkit Grocery Sales Analysis Dashboard](Blinkit-Dashboard.png)
+
